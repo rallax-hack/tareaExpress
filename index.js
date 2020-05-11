@@ -7,4 +7,4 @@ app.get('/', function (req, res) {
 
 app.listen(3000)
 
-console.log("Mi primer server corriendo EXPRESS");
+console.log("Mi primer server corriendo EXPRESS en http://localhost:3000");
